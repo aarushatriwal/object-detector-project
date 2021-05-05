@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    background-color: none;
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+}
+.new{
+    background-color: whitesmoke;
+    color: black;
+    font-size: medium;
+    width: 30%;
+    border-radius: 50px;
+}
